@@ -1,0 +1,14 @@
+feature,importance
+sales_lag_1_month,0.5537566547753479
+sales_lag_12_month,0.43325650165957746
+sales_mwh_per_customer,0.010859003
+com_customers,0.000934944
+com_price_cents_per_kwh,0.000338052
+price_poverty_interaction,0.000248671
+year_num,0.000247818
+month_num,0.000147152
+total_population,5.387350174228496e-05
+employment_rate,4.270690585277236e-05
+poverty_rate,4.1818417620458545e-05
+median_household_income,3.6595954043917826e-05
+quarter,3.62083676114645e-05
