@@ -63,7 +63,4 @@ The Random Forest model performed better, achieving 3.33% MAPE.
 
 Businesses and planners should forecast energy demand using historical demand, customer counts, seasonality, and price-related indicators together. The model can support budget planning by identifying high-demand months before they occur.
 
-Author
-M Zafrul Hossain
-MS Business Analytics
-University of Cincinnati
+
